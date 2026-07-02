@@ -17,7 +17,6 @@ pandas 3.0.1
 matplotlib 3.10.9
 seaborn 0.13.2
 jupyter 7.4.5
-
 ```
 
 ## Instalación:
@@ -47,7 +46,7 @@ pip install pandas matplotlib seaborn jupyter
 - **Technology** es la categoría más rentable en términos absolutos; **Furniture** tiene ventas comparables a Office Supplies pero rentabilidad mucho menor.
 - **Tables** y **Bookcases** son las únicas sub-categorías con ganancia negativa acumulada.
 - **West** es la región más rentable, seguida de East; Central y South quedan bastante por debajo.
-- A partir de un descuento de **0.3** la mediana de ganancia se vuelve negativa: no es una relación lineal suave sino un quiebre claro.
+- A partir de un descuento de **0,3** la mediana de ganancia se vuelve negativa: no es una relación lineal suave sino un quiebre claro.
 - Existe una categoría específica que concentra la mayoría de las pérdidas asociadas a descuentos altos (ver notebook, sección de cruce descuento-categoría).
 
 ## Conclusión
